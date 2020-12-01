@@ -5,4 +5,5 @@ It is a simple simulator of Bank accounts management system on console.
 
 # Features 
 1)You can make account.<br> 
-2)You can login to your account.
+2)You can login to your account.<br>
+3)You can Manage your Account.<br>
